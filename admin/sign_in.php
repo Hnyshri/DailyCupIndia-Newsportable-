@@ -5,7 +5,7 @@
         <table width=400 align='right' border='20'  style="margin-top:4em; margin-right:5em; ">
         <tr><td colspan='5' align='center' bgcolor='gray'><h2><font color="white">Admin Sign in here</font></h2></td></tr>
 
-         <tr><td align='center'><input type='text' placeholder="Enter username" name='user_name'></td></tr>        
+         <tr><td align='center'><input type='text' placeholder="Enter username" name='user_name' size='' maxlength='30'></td></tr>        
          <tr><td align='center'><input type='text' placeholder="Enter Name" name='user_name1'></td></tr>
         <tr>        
          <td align='center'><input type="radio" name="radio" value="Male"><font color="white">Male</font>
